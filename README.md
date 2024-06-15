@@ -1,1 +1,2 @@
-# Thuật toán thay thế trang
+# Thuật toán thay thế trang LRU
+
